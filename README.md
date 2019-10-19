@@ -6,7 +6,8 @@ FPGAs are good at low-latency, high performance signal processing, but implement
 
 ## Hardware platform
 In addition to software tooling, we have developed an open source audio daughter card for the [DE10 Nano development board](https://www.terasic.com.tw/cgi-bin/page/archive.pl?Language=English&No=1046).
-![](de10_audio_mini.jpg)
+
+<img src=de10_audio_mini.jpg width=50% />
 
 ## Github organization
 Source code is available at [FPGA open speech tools](https://github.com/fpga-open-speech-tools) on Github.
